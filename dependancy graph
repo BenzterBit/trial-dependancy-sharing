@@ -2,6 +2,7 @@ Percentage
 	Fraction
 		numerator
 		denominator
+		types of fractions
 		fraction multiplication
 			multiplication
 			division
@@ -12,11 +13,29 @@ Percentage
 					composite numbers
 				divisibility test
 					division
+		equivalent fractions
+		fraction addition,fraction substraction
+			bodmas rule
+			like fractions
+			unlike fractions
+			operations on mixed fractions
+				mixed fractions
+				addition
+				subtraction
+			Easiest Common Denominator
+			Least Common Denominator
+		
+		fraction division
+			reciprocals
+			multiplicative inverse
+			division = multiply by reciprocal of operand 2
+			fraction multiplication
 
+		comparing fractions
+			cross multiplication
+			comparing the decimal equivalent
+			less than, greater than, equal to
 
-		fraction addition
-
-		fraction substraction
 
 		special type of fraction with denominator as 100
 			/100 is replaced by %
@@ -29,8 +48,7 @@ Percentage
 		it is a base 10 fraction
 
 		fraction multiplication and meaning of 'OF' like x% of 20
-			multiplication
-			division
+			fraction multiplication
 
 	Decimals
 		since it is a base 10 fraction therefore it is much easier to rewrite in decimals
